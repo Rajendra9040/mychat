@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: mychat
+  datasource:
+    url: jdbc:mysql://localhost:3306/mychat
+    username: root
+    password: Raju@123
